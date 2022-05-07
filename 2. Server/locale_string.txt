@@ -1,0 +1,20 @@
+"You can't do this because your level is lower than 15";
+" [وضع الحماية] لا يمكن للنظام حمايتك لأن مستواك اقل من 15. ";
+
+"You cannot do this because you are dead.";
+" [وضع الحماية]لا يمكن للنظام حمايتك لأن شخصيتك ميتة. ";
+
+"You can't do this because you are in pvp mode.";
+" [وضع الحماية]لا يمكن للنظام حمايتك لأنك في وضع المبارزة. ";
+
+"You can't do this because your (IsProtected)";
+" [وضع الحماية]لا يمكنك فعل هذا وانت في وضع الحماية. ";
+
+"You can't do this casue you'r victim (Protected).";
+" [وضع الحماية]لا يمكنك إرسال لخصمك طلب مبارزة لأنه محمي. ";
+
+"You Are Already Protected.";
+" [وضع الحماية] أنت محمي بالفعل . ";
+
+"You can't do this because you are not protected";
+" [وضع الحماية] يجب ان تكون محمي من أجل ان يُزال تأثير الحماية . ";
